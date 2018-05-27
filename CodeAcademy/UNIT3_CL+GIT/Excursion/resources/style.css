@@ -1,0 +1,33 @@
+html{
+  Background-color: Black;
+  text-align: center;
+}
+h1{
+  font-family: Verdana;
+  Font-Weight: Normal;
+  Font-size: 50px;
+  color: White;
+  text-align: center;
+}
+h2{
+  font-family: Verdana;
+  Font-Weight: 300;
+  Font-size: 42px;
+  color: White;
+  text-align: center;
+}
+p{
+  font-family: Verdana;
+  Font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+a{
+ color: Aquamarine;
+ font-size: 16px;
+ font-family: Verdana;
+ text-align: center;
+}
+.Ex{
+  text-align: right;
+}
